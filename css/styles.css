@@ -2,28 +2,32 @@ body,
 html {
   margin: 0;
   padding: 0;
-  color: #000;
-  background: #a7a09a;
+  color: #534E47;
+  background: #523100;
 }
 
 #wrap {
   width: 750px;
   margin: 0 auto;
-  background: #99c;
+  background: #F2C480;
 }
 
 #header {
   padding: 5px 10px;
-  background: #ddd;
+  background: #E6D9C5;
 }
 
 h1 {
   margin: 0;
 }
 
+a {
+  color: #FFFFFF;
+}
+
 #nav {
   padding: 5px 10px;
-  background: #c99;
+  background: #FFB84D;
 }
 
 #nav ul {
@@ -42,7 +46,7 @@ h1 {
   float: left;
   width: 480px;
   padding: 10px;
-  background: #9c9;
+  background: #CC7A00;
 }
 
 h2 {
@@ -53,15 +57,15 @@ h2 {
   float: right;
   width: 230px;
   padding: 10px;
-  background: #99c;
+  background: #F2C480;
 }
 
 #footer {
   clear: both;
   padding: 5px 10px;
-  background: #cc9;
+  background: #CFC3B1;
 }
 
 #footer p {
-  margin: 0;
+  margin: 0
 }
